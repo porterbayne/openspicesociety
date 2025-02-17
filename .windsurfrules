@@ -1,0 +1,3 @@
+build system: npm
+This is a Nuxt.js app built with PrimeVue, and using Supabase in the cloud for both DEV and PROD.
+Supabase: generate migrations but do not run them.

@@ -13,13 +13,15 @@
     "@nuxtjs/color-mode": "^3.3.2",
     "@nuxtjs/supabase": "^1.1.6",
     "@nuxtjs/tailwindcss": "^6.11.4",
+    "@primevue/themes": "^4.2.5",
     "@shopify/shopify-api": "^9.0.1",
     "nuxt": "^3.9.3",
     "primeicons": "^6.0.1",
-    "primevue": "^3.48.1",
+    "primevue": "^3.53.1",
     "vercel": "^41.1.4"
   },
   "devDependencies": {
+    "@primevue/nuxt-module": "^4.2.5",
     "@types/node": "^20.11.16",
     "sass": "^1.70.0",
     "typescript": "^5.3.3"

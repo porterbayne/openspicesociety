@@ -4,7 +4,7 @@
     <div class="max-w-md mx-auto">
       <PrimeCard>
         <template #title>
-          Join the Community
+          LOGIN to the Community
         </template>
         <template #content>
           <p class="mb-4">Connect with fellow spice enthusiasts and share your culinary adventures.</p>

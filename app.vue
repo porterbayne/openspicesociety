@@ -4,8 +4,3 @@
   </div>
 </template>
 
-<script setup lang="ts">
-// PrimeVue styles
-import 'primevue/resources/themes/lara-light-blue/theme.css'
-import 'primeicons/primeicons.css'
-</script>
